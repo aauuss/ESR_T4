@@ -1,0 +1,1856 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+                              ../Obj/mega328_1.9V/ReadADC.o (__mulsi3)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+                              ../Obj/mega328_1.9V/function_menu.o (__udivmodqi4)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+                              ../Obj/mega328_1.9V/RefVoltage.o (__udivmodhi4)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+                              ../Obj/mega328_1.9V/function_menu.o (__divmodhi4)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+                              ../Obj/mega328_1.9V/DisplayValue.o (__udivmodsi4)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+                              ../Obj/mega328_1.9V/main.o (__divmodsi4)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+                              /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o) (__negsi2)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o (exit)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+                              ../Obj/mega328_1.9V/lcd-routines.o (__do_clear_bss)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+                              ../Obj/mega328_1.9V/main.o (__umulhisi3)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+                              ../Obj/mega328_1.9V/main.o (__usmulhisi3)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+                              ../Obj/mega328_1.9V/main.o (__muluhisi3)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+                              ../Obj/mega328_1.9V/ReadCapacity.o (__mulshisi3)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+                              ../Obj/mega328_1.9V/GetFrequency.o (__umulsidi3)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+                              ../Obj/mega328_1.9V/GetFrequency.o (__udivdi3)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+                              /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o) (__udivmod64)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+                              ../Obj/mega328_1.9V/DisplayValue.o (__prologue_saves__)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+                              ../Obj/mega328_1.9V/DisplayValue.o (__epilogue_restores__)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+                              /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o) (__muldi3_6)
+/usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                              ../Obj/mega328_1.9V/DisplayValue.o (__ultoa_ncheck)
+/usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa.o)
+                              ../Obj/mega328_1.9V/i2lcd.o (utoa)
+/usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                              /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa.o) (__utoa_ncheck)
+/usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(strrev.o)
+                              /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o) (strrev)
+/usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_byte.o)
+                              ../Obj/mega328_1.9V/lcd-routines.o (eeprom_read_byte)
+/usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_word.o)
+                              ../Obj/mega328_1.9V/show_Resis_Cap.o (eeprom_read_word)
+/usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eewr_byte.o)
+                              ../Obj/mega328_1.9V/main.o (eeprom_write_byte)
+/usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eewr_word.o)
+                              ../Obj/mega328_1.9V/main.o (eeprom_write_word)
+/usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_block.o)
+                              /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_word.o) (eeprom_read_blraw)
+
+Allocating common symbols
+Common symbol       size              file
+
+diode_sequence      0x1               ../Obj/mega328_1.9V/main.o
+ext_freq            0x4               ../Obj/mega328_1.9V/main.o
+display_time        0x2               ../Obj/mega328_1.9V/main.o
+lc_fx               0x4               ../Obj/mega328_1.9V/sampling_lc.o
+resis680mi          0x2               ../Obj/mega328_1.9V/main.o
+ref_mv_offs         0x2               ../Obj/mega328_1.9V/main.o
+NumOfDiodes         0x1               ../Obj/mega328_1.9V/main.o
+PartMode            0x1               ../Obj/mega328_1.9V/main.o
+PartFound           0x1               ../Obj/mega328_1.9V/main.o
+resis680pl          0x2               ../Obj/mega328_1.9V/main.o
+tmpval              0x1               ../Obj/mega328_1.9V/main.o
+last_text_column    0x1               ../Obj/mega328_1.9V/lcd-routines.o
+adc_vcc_reference   0x2               ../Obj/mega328_1.9V/main.o
+inductor_lpre       0x1               ../Obj/mega328_1.9V/main.o
+mess_count          0x1               ../Obj/mega328_1.9V/main.o
+last_text_line      0x1               ../Obj/mega328_1.9V/lcd-routines.o
+outval              0xa               ../Obj/mega328_1.9V/main.o
+ADCconfig           0x6               ../Obj/mega328_1.9V/main.o
+lc_cpartmp          0x2               ../Obj/mega328_1.9V/sampling_lc.o
+pin_rpl             0x2               ../Obj/mega328_1.9V/main.o
+ref_mv              0x2               ../Obj/mega328_1.9V/main.o
+DC_Pwr_mode         0x1               ../Obj/mega328_1.9V/main.o
+tmpval2             0x1               ../Obj/mega328_1.9V/main.o
+UnCalibrated        0x1               ../Obj/mega328_1.9V/main.o
+pin_rmi             0x2               ../Obj/mega328_1.9V/main.o
+WithReference       0x1               ../Obj/mega328_1.9V/main.o
+_lcd_column         0x1               ../Obj/mega328_1.9V/main.o
+_trans              0x2               ../Obj/mega328_1.9V/main.o
+lc_qx               0x2               ../Obj/mega328_1.9V/sampling_lc.o
+last_line_used      0x1               ../Obj/mega328_1.9V/main.o
+ntrans              0x10              ../Obj/mega328_1.9V/main.o
+empty_count         0x1               ../Obj/mega328_1.9V/main.o
+pin_combination     0x1               ../Obj/mega328_1.9V/main.o
+ovcnt16             0x2               ../Obj/mega328_1.9V/main.o
+cell_mv             0x6               ../Obj/mega328_1.9V/main.o
+ResistorChecked     0x3               ../Obj/mega328_1.9V/main.o
+ResistorList        0x3               ../Obj/mega328_1.9V/main.o
+ptrans              0x10              ../Obj/mega328_1.9V/main.o
+pinchange_max       0x2               ../Obj/mega328_1.9V/main.o
+pinchange_count     0x2               ../Obj/mega328_1.9V/main.o
+adc_internal_reference
+                    0x2               ../Obj/mega328_1.9V/main.o
+ResistorsFound      0x1               ../Obj/mega328_1.9V/main.o
+unfinished          0x1               ../Obj/mega328_1.9V/main.o
+RHmultip            0x2               ../Obj/mega328_1.9V/main.o
+cap                 0x14              ../Obj/mega328_1.9V/main.o
+load_diff           0x2               ../Obj/mega328_1.9V/main.o
+diodes              0x18              ../Obj/mega328_1.9V/main.o
+inductor_lx         0x4               ../Obj/mega328_1.9V/main.o
+lcd_text_line       0x1               ../Obj/mega328_1.9V/main.o
+lc_lx               0x4               ../Obj/mega328_1.9V/sampling_lc.o
+ResistorVal         0xc               ../Obj/mega328_1.9V/main.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/lcd_hw_4_bit.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/lcd_hw_4_bit.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/lcd-routines.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/lcd-routines.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/lcd-routines.o
+ .text.lcd_line3
+                0x0000000000000000       0x16 ../Obj/mega328_1.9V/lcd-routines.o
+ .text.lcd_line4
+                0x0000000000000000       0x16 ../Obj/mega328_1.9V/lcd-routines.o
+ .text.lcd_pgm_string
+                0x0000000000000000       0x1e ../Obj/mega328_1.9V/lcd-routines.o
+ .text.lcd_set_pixels
+                0x0000000000000000        0x2 ../Obj/mega328_1.9V/lcd-routines.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/i2lcd.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/i2lcd.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/PinLayout.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/PinLayout.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/RvalOut.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/RvalOut.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/UfAusgabe.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/UfAusgabe.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/DisplayValue.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/DisplayValue.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/DisplayValue.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/swuart.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/swuart.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/wait1000ms.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/wait1000ms.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/sleep_5ms.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/sleep_5ms.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadADC.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadADC.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/RefVoltage.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/RefVoltage.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/main.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/main.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/main.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/Battery_check.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/Battery_check.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/Battery_check.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/CheckPins.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/CheckPins.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/CheckPins.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetResistance.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetResistance.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetResistance.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ChargePin10ms.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ChargePin10ms.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/ChargePin10ms.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/EntladePins.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/EntladePins.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/EntladePins.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadCapacity.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadCapacity.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadCapacity.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetRLmultip.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetRLmultip.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/get_log.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/get_log.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadInductance.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadInductance.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadInductance.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetESR.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetESR.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetVloss.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetVloss.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetVloss.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/function_menu.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/function_menu.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/function_menu.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/message_key_released.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/message_key_released.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/message_key_released.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetFrequency.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetFrequency.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/GetFrequency.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadBigCap.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadBigCap.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/ReadBigCap.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/CheckRotaryEncoder.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/CheckRotaryEncoder.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/CheckRotaryEncoder.o
+ .debug_info    0x0000000000000000       0x5d ../Obj/mega328_1.9V/CheckRotaryEncoder.o
+ .debug_abbrev  0x0000000000000000       0x26 ../Obj/mega328_1.9V/CheckRotaryEncoder.o
+ .debug_aranges
+                0x0000000000000000       0x18 ../Obj/mega328_1.9V/CheckRotaryEncoder.o
+ .debug_line    0x0000000000000000       0x1a ../Obj/mega328_1.9V/CheckRotaryEncoder.o
+ .debug_str     0x0000000000000000      0x175 ../Obj/mega328_1.9V/CheckRotaryEncoder.o
+ .comment       0x0000000000000000       0x12 ../Obj/mega328_1.9V/CheckRotaryEncoder.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/CalibrationCap.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/CalibrationCap.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/CalibrationCap.o
+ .debug_info    0x0000000000000000       0x5d ../Obj/mega328_1.9V/CalibrationCap.o
+ .debug_abbrev  0x0000000000000000       0x26 ../Obj/mega328_1.9V/CalibrationCap.o
+ .debug_aranges
+                0x0000000000000000       0x18 ../Obj/mega328_1.9V/CalibrationCap.o
+ .debug_line    0x0000000000000000       0x1a ../Obj/mega328_1.9V/CalibrationCap.o
+ .debug_str     0x0000000000000000      0x171 ../Obj/mega328_1.9V/CalibrationCap.o
+ .comment       0x0000000000000000       0x12 ../Obj/mega328_1.9V/CalibrationCap.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/CheckUJT.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/CheckUJT.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/CheckUJT.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ShowData.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/ShowData.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/ShowData.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/EE_check_init.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/EE_check_init.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/EE_check_init.o
+ .text.EE_check_init
+                0x0000000000000000        0x2 ../Obj/mega328_1.9V/EE_check_init.o
+ .debug_info    0x0000000000000000       0x7f ../Obj/mega328_1.9V/EE_check_init.o
+ .debug_abbrev  0x0000000000000000       0x44 ../Obj/mega328_1.9V/EE_check_init.o
+ .debug_aranges
+                0x0000000000000000       0x20 ../Obj/mega328_1.9V/EE_check_init.o
+ .debug_ranges  0x0000000000000000       0x10 ../Obj/mega328_1.9V/EE_check_init.o
+ .debug_line    0x0000000000000000       0x3e ../Obj/mega328_1.9V/EE_check_init.o
+ .debug_str     0x0000000000000000      0x17e ../Obj/mega328_1.9V/EE_check_init.o
+ .comment       0x0000000000000000       0x12 ../Obj/mega328_1.9V/EE_check_init.o
+ .debug_frame   0x0000000000000000       0x24 ../Obj/mega328_1.9V/EE_check_init.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/samplingADC.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/samplingADC.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/samplingADC.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/sampling_cap.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/sampling_cap.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/sampling_cap.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/sampling_lc.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/sampling_lc.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/sampling_lc.o
+ .text          0x0000000000000000        0x0 ../Obj/mega328_1.9V/sampling_xtal.o
+ .data          0x0000000000000000        0x0 ../Obj/mega328_1.9V/sampling_xtal.o
+ .bss           0x0000000000000000        0x0 ../Obj/mega328_1.9V/sampling_xtal.o
+ .debug_line    0x0000000000000000        0x0 ../Obj/mega328_1.9V/sampling_xtal.o
+ .debug_str     0x0000000000000000      0x100 ../Obj/mega328_1.9V/sampling_xtal.o
+ .comment       0x0000000000000000       0x12 ../Obj/mega328_1.9V/sampling_xtal.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_byte.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_byte.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_byte.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_word.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_word.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_word.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eewr_byte.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eewr_byte.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eewr_byte.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eewr_word.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eewr_word.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eewr_word.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_block.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_block.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_block.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+LOAD ../Obj/mega328_1.9V/lcd_hw_4_bit.o
+LOAD ../Obj/mega328_1.9V/lcd-routines.o
+LOAD ../Obj/mega328_1.9V/i2lcd.o
+LOAD ../Obj/mega328_1.9V/PinLayout.o
+LOAD ../Obj/mega328_1.9V/RvalOut.o
+LOAD ../Obj/mega328_1.9V/UfAusgabe.o
+LOAD ../Obj/mega328_1.9V/DisplayValue.o
+LOAD ../Obj/mega328_1.9V/swuart.o
+LOAD ../Obj/mega328_1.9V/wait1000ms.o
+LOAD ../Obj/mega328_1.9V/sleep_5ms.o
+LOAD ../Obj/mega328_1.9V/ReadADC.o
+LOAD ../Obj/mega328_1.9V/wait_for_key_ms.o
+LOAD ../Obj/mega328_1.9V/RefVoltage.o
+LOAD ../Obj/mega328_1.9V/main.o
+LOAD ../Obj/mega328_1.9V/Battery_check.o
+LOAD ../Obj/mega328_1.9V/CheckPins.o
+LOAD ../Obj/mega328_1.9V/GetResistance.o
+LOAD ../Obj/mega328_1.9V/ChargePin10ms.o
+LOAD ../Obj/mega328_1.9V/EntladePins.o
+LOAD ../Obj/mega328_1.9V/ReadCapacity.o
+LOAD ../Obj/mega328_1.9V/GetRLmultip.o
+LOAD ../Obj/mega328_1.9V/Calibrate_UR.o
+LOAD ../Obj/mega328_1.9V/show_Resis_Cap.o
+LOAD ../Obj/mega328_1.9V/get_log.o
+LOAD ../Obj/mega328_1.9V/ReadInductance.o
+LOAD ../Obj/mega328_1.9V/GetESR.o
+LOAD ../Obj/mega328_1.9V/GetVloss.o
+LOAD ../Obj/mega328_1.9V/function_menu.o
+LOAD ../Obj/mega328_1.9V/message_key_released.o
+LOAD ../Obj/mega328_1.9V/GetFrequency.o
+LOAD ../Obj/mega328_1.9V/ReadBigCap.o
+LOAD ../Obj/mega328_1.9V/CheckRotaryEncoder.o
+LOAD ../Obj/mega328_1.9V/CalibrationCap.o
+LOAD ../Obj/mega328_1.9V/CheckUJT.o
+LOAD ../Obj/mega328_1.9V/ShowData.o
+LOAD ../Obj/mega328_1.9V/EE_check_init.o
+LOAD ../Obj/mega328_1.9V/samplingADC.o
+LOAD ../Obj/mega328_1.9V/sampling_cap.o
+LOAD ../Obj/mega328_1.9V/sampling_lc.o
+LOAD ../Obj/mega328_1.9V/sampling_xtal.o
+START GROUP
+LOAD /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a
+END GROUP
+                0x0000000000020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x000000000000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x6b04
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc   0x0000000000000068      0x128 ../Obj/mega328_1.9V/samplingADC.o
+                0x0000000000000068                samplingADC
+                0x0000000000000068                samplingADC_freqgen_sck
+                0x0000000000000068                samplingADC_freqgen
+                0x0000000000000190                . = ALIGN (0x2)
+                0x0000000000000190                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000190        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000190                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.PinRLRHADCtab
+                0x0000000000000190        0x6 ../Obj/mega328_1.9V/main.o
+                0x0000000000000190                PinRLRHADCtab
+ .progmem.data.HelpCalibration_str
+                0x0000000000000196       0xe3 ../Obj/mega328_1.9V/main.o
+                0x0000000000000196                HelpCalibration_str
+ .progmem.data.RHtab
+                0x0000000000000279       0x12 ../Obj/mega328_1.9V/main.o
+                0x0000000000000279                RHtab
+ .progmem.data.LogTab
+                0x000000000000028b       0x66 ../Obj/mega328_1.9V/main.o
+                0x000000000000028b                LogTab
+                0x00000000000002f2                . = ALIGN (0x2)
+ *fill*         0x00000000000002f1        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000002f2                __ctors_start = .
+ *(.ctors)
+                0x00000000000002f2                __ctors_end = .
+                0x00000000000002f2                __dtors_start = .
+ *(.dtors)
+                0x00000000000002f2                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000002f2        0x0 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+                0x00000000000002f2                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000002f2        0xc /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000002fe       0x10 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+                0x00000000000002fe                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000030e        0x8 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000316        0x2 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+                0x0000000000000316                __vector_22
+                0x0000000000000316                __vector_1
+                0x0000000000000316                __vector_24
+                0x0000000000000316                __bad_interrupt
+                0x0000000000000316                __vector_6
+                0x0000000000000316                __vector_3
+                0x0000000000000316                __vector_23
+                0x0000000000000316                __vector_25
+                0x0000000000000316                __vector_17
+                0x0000000000000316                __vector_19
+                0x0000000000000316                __vector_4
+                0x0000000000000316                __vector_9
+                0x0000000000000316                __vector_2
+                0x0000000000000316                __vector_15
+                0x0000000000000316                __vector_8
+                0x0000000000000316                __vector_14
+                0x0000000000000316                __vector_18
+                0x0000000000000316                __vector_20
+ .text          0x0000000000000318       0x5c ../Obj/mega328_1.9V/lcd_hw_4_bit.o
+                0x0000000000000318                _lcd_hw_write
+ .text          0x0000000000000374       0x38 ../Obj/mega328_1.9V/i2lcd.o
+                0x0000000000000374                i2lcd
+                0x000000000000038a                u2lcd
+                0x000000000000039a                i2lcd_space
+                0x000000000000039e                u2lcd_space
+                0x00000000000003a0                lcd_space
+                0x00000000000003a4                lcd_minus
+                0x00000000000003a8                lcd_equal
+ .text          0x00000000000003ac       0x62 ../Obj/mega328_1.9V/PinLayout.o
+                0x00000000000003ac                PinLayout
+                0x00000000000003fa                Rnum2pins
+ .text          0x000000000000040e       0x4a ../Obj/mega328_1.9V/RvalOut.o
+                0x000000000000040e                RvalOut
+ .text          0x0000000000000458       0xc4 ../Obj/mega328_1.9V/UfAusgabe.o
+                0x0000000000000458                mVAusgabe
+                0x0000000000000474                UfAusgabe
+                0x00000000000004a0                SerienDiodenAusgabe
+                0x00000000000004c4                DiodeSymbol_withPins
+                0x00000000000004dc                DiodeSymbol_ApinCpin
+                0x00000000000004ea                DiodeSymbol_ACpin
+                0x00000000000004fc                DiodeSymbol_CpinApin
+                0x000000000000050a                DiodeSymbol_CApin
+ .text          0x000000000000051c       0x26 ../Obj/mega328_1.9V/swuart.o
+                0x000000000000051c                uart_putc
+ .text          0x0000000000000542       0x4a ../Obj/mega328_1.9V/wait1000ms.o
+                0x0000000000000542                wait5s
+                0x0000000000000544                wait4s
+                0x0000000000000546                wait3s
+                0x0000000000000548                wait2s
+                0x000000000000054a                wait1000ms
+                0x000000000000054a                wait1s
+                0x000000000000054c                wait500ms
+                0x000000000000054e                wait400ms
+                0x0000000000000550                wait300ms
+                0x0000000000000552                wait200ms
+                0x0000000000000554                wait100ms
+                0x0000000000000556                wait50ms
+                0x0000000000000558                wait40ms
+                0x000000000000055a                wait30ms
+                0x000000000000055c                wait20ms
+                0x000000000000055e                wait10ms
+                0x0000000000000560                wait5ms
+                0x0000000000000564                wait4ms
+                0x0000000000000566                wait3ms
+                0x0000000000000568                wait2ms
+                0x000000000000056a                wait1ms
+                0x000000000000056c                wait500us
+                0x000000000000056e                wait400us
+                0x0000000000000570                wait300us
+                0x0000000000000572                wait200us
+                0x0000000000000574                wait100us
+                0x0000000000000576                wait50us
+                0x0000000000000578                wait40us
+                0x000000000000057a                wait30us
+                0x000000000000057c                wait20us
+                0x000000000000057e                wait10us
+                0x0000000000000580                wait5us
+                0x0000000000000582                wait4us
+                0x0000000000000584                wait3us
+                0x0000000000000586                wait2us
+                0x0000000000000588                wait1us
+ .text          0x000000000000058c       0x58 ../Obj/mega328_1.9V/sleep_5ms.o
+                0x000000000000058c                sleep_5ms
+ .text          0x00000000000005e4       0xfc ../Obj/mega328_1.9V/ReadADC.o
+                0x00000000000005e4                W20msReadADC
+                0x00000000000005ec                W10msReadADC
+                0x00000000000005f4                W5msReadADC
+                0x00000000000005fc                ReadADC
+                0x00000000000006b8                abs_diff
+                0x00000000000006c4                vcc_diff
+                0x00000000000006ce                unsigned_diff
+ .text          0x00000000000006e0       0xb0 ../Obj/mega328_1.9V/RefVoltage.o
+                0x00000000000006e0                RefVoltage
+ .text          0x0000000000000790       0x7e ../Obj/mega328_1.9V/GetRLmultip.o
+                0x0000000000000790                GetRLmultip
+ .text          0x000000000000080e       0x48 ../Obj/mega328_1.9V/get_log.o
+                0x000000000000080e                get_log
+ .text          0x0000000000000856      0x348 ../Obj/mega328_1.9V/GetESR.o
+                0x0000000000000856                GetESR
+                0x0000000000000b9e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.lcd_spaces
+                0x0000000000000b9e       0x12 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000b9e                lcd_spaces
+ .text.lcd_save_position
+                0x0000000000000bb0       0x12 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000bb0                lcd_save_position
+ .text.lcd_data
+                0x0000000000000bc2       0x6c ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000bc2                lcd_data
+ .text.lcd_testpin
+                0x0000000000000c2e        0x6 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000c2e                lcd_testpin
+ .text.lcd_command
+                0x0000000000000c34        0xa ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000c34                lcd_command
+ .text.lcd_set_cursor
+                0x0000000000000c3e       0x14 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000c3e                lcd_set_cursor
+ .text.lcd_restore_position
+                0x0000000000000c52        0xc ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000c52                lcd_restore_position
+ .text.uart_newline
+                0x0000000000000c5e        0xa ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000c5e                uart_newline
+ .text.lcd_line1
+                0x0000000000000c68       0x10 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000c68                lcd_line1
+ .text.lcd_clear
+                0x0000000000000c78        0xc ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000c78                lcd_clear
+ .text.lcd_line2
+                0x0000000000000c84       0x12 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000c84                lcd_line2
+ .text.lcd_string
+                0x0000000000000c96       0x16 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000c96                lcd_string
+ .text.lcd_fix_string
+                0x0000000000000cac       0x1e ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000cac                lcd_fix_string
+ .text.lcd_fix_customchar
+                0x0000000000000cca       0x2a ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000cca                lcd_fix_customchar
+ .text.lcd_init
+                0x0000000000000cf4       0x70 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000cf4                lcd_init
+ .text.lcd_clear_line
+                0x0000000000000d64        0xc ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000d64                lcd_clear_line
+ .text.lcd_next_line
+                0x0000000000000d70       0x32 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000d70                lcd_next_line
+ .text.lcd_next_line_wait
+                0x0000000000000da2       0x10 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000da2                lcd_next_line_wait
+ .text.lcd_clear_line1
+                0x0000000000000db2        0x8 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000db2                lcd_clear_line1
+ .text.lcd_clear_line2
+                0x0000000000000dba        0x8 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000dba                lcd_clear_line2
+ .text.lcd_show_Cg
+                0x0000000000000dc2       0x30 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000dc2                lcd_show_Cg
+ .text.lcd_show_rds
+                0x0000000000000df2       0x28 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000000df2                lcd_show_rds
+ .text.DisplayValue
+                0x0000000000000e1a      0x1d2 ../Obj/mega328_1.9V/DisplayValue.o
+                0x0000000000000e1a                DisplayValue
+ .text.DisplayValue16
+                0x0000000000000fec       0x16 ../Obj/mega328_1.9V/DisplayValue.o
+                0x0000000000000fec                DisplayValue16
+ .text.Display_mV
+                0x0000000000001002       0x14 ../Obj/mega328_1.9V/DisplayValue.o
+                0x0000000000001002                Display_mV
+ .text.Display_Hz
+                0x0000000000001016       0x14 ../Obj/mega328_1.9V/DisplayValue.o
+                0x0000000000001016                Display_Hz
+ .text.wait_for_key_ms
+                0x000000000000102a       0x78 ../Obj/mega328_1.9V/wait_for_key_ms.o
+                0x000000000000102a                wait_for_key_ms
+ .text.wait_for_key_5s_line2
+                0x00000000000010a2       0x42 ../Obj/mega328_1.9V/wait_for_key_ms.o
+                0x00000000000010a2                wait_for_key_5s_line2
+ .text.__vector_7
+                0x00000000000010e4        0x2 ../Obj/mega328_1.9V/main.o
+                0x00000000000010e4                __vector_7
+ .text.__vector_21
+                0x00000000000010e6        0x2 ../Obj/mega328_1.9V/main.o
+                0x00000000000010e6                __vector_21
+ .text.search_vak_diode
+                0x00000000000010e8       0x48 ../Obj/mega328_1.9V/main.o
+                0x00000000000010e8                search_vak_diode
+ .text.init_parts
+                0x0000000000001130       0x46 ../Obj/mega328_1.9V/main.o
+                0x0000000000001130                init_parts
+ .text.switch_tester_off
+                0x0000000000001176       0x1a ../Obj/mega328_1.9V/main.o
+                0x0000000000001176                switch_tester_off
+ .text.ShortedProbes
+                0x0000000000001190       0x7c ../Obj/mega328_1.9V/main.o
+                0x0000000000001190                ShortedProbes
+ .text.AllProbesShorted
+                0x000000000000120c       0x1e ../Obj/mega328_1.9V/main.o
+                0x000000000000120c                AllProbesShorted
+ .text.AutoCheck
+                0x000000000000122a      0x72e ../Obj/mega328_1.9V/main.o
+                0x000000000000122a                AutoCheck
+ .text.mark_as_uncalibrated
+                0x0000000000001958       0x24 ../Obj/mega328_1.9V/main.o
+                0x0000000000001958                mark_as_uncalibrated
+ .text.GetIr    0x000000000000197c       0x8e ../Obj/mega328_1.9V/main.o
+                0x000000000000197c                GetIr
+ .text.startup.main
+                0x0000000000001a0a      0xb8c ../Obj/mega328_1.9V/main.o
+                0x0000000000001a0a                main
+ .text.Battery_check
+                0x0000000000002596       0x96 ../Obj/mega328_1.9V/Battery_check.o
+                0x0000000000002596                Battery_check
+ .text.expand_FET_quadratic
+                0x000000000000262c       0x4e ../Obj/mega328_1.9V/CheckPins.o
+                0x000000000000262c                expand_FET_quadratic
+ .text.CheckPins
+                0x000000000000267a      0xea8 ../Obj/mega328_1.9V/CheckPins.o
+                0x000000000000267a                CheckPins
+ .text.GetResistance
+                0x0000000000003522      0x42e ../Obj/mega328_1.9V/GetResistance.o
+                0x0000000000003522                GetResistance
+ .text.ChargePin10ms
+                0x0000000000003950       0x30 ../Obj/mega328_1.9V/ChargePin10ms.o
+                0x0000000000003950                ChargePin10ms
+ .text.EntladePins
+                0x0000000000003980      0x120 ../Obj/mega328_1.9V/EntladePins.o
+                0x0000000000003980                EntladePins
+ .text.Scale_C_with_vcc
+                0x0000000000003aa0       0x80 ../Obj/mega328_1.9V/ReadCapacity.o
+                0x0000000000003aa0                Scale_C_with_vcc
+ .text.ReadCapacity
+                0x0000000000003b20      0x592 ../Obj/mega328_1.9V/ReadCapacity.o
+                0x0000000000003b20                ReadCapacity
+ .text.__vector_13
+                0x00000000000040b2       0x4c ../Obj/mega328_1.9V/ReadCapacity.o
+                0x00000000000040b2                __vector_13
+ .text.__vector_10
+                0x00000000000040fe       0x44 ../Obj/mega328_1.9V/ReadCapacity.o
+                0x00000000000040fe                __vector_10
+ .text.Calibrate_UR
+                0x0000000000004142      0x1a2 ../Obj/mega328_1.9V/Calibrate_UR.o
+                0x0000000000004142                Calibrate_UR
+ .text.show_resis
+                0x00000000000042e4      0x17a ../Obj/mega328_1.9V/show_Resis_Cap.o
+                0x00000000000042e4                show_resis
+ .text.show_cap
+                0x000000000000445e      0x138 ../Obj/mega328_1.9V/show_Resis_Cap.o
+                0x000000000000445e                show_cap
+ .text.Bat_update
+                0x0000000000004596       0x1a ../Obj/mega328_1.9V/show_Resis_Cap.o
+                0x0000000000004596                Bat_update
+ .text.Pwr_mode_check
+                0x00000000000045b0       0x14 ../Obj/mega328_1.9V/show_Resis_Cap.o
+                0x00000000000045b0                Pwr_mode_check
+ .text.show_Resis13
+                0x00000000000045c4       0x84 ../Obj/mega328_1.9V/show_Resis_Cap.o
+                0x00000000000045c4                show_Resis13
+ .text.show_Cap13
+                0x0000000000004648       0xea ../Obj/mega328_1.9V/show_Resis_Cap.o
+                0x0000000000004648                show_Cap13
+ .text.ReadInductance
+                0x0000000000004732      0x470 ../Obj/mega328_1.9V/ReadInductance.o
+                0x0000000000004732                ReadInductance
+ .text.GetVloss
+                0x0000000000004ba2      0x160 ../Obj/mega328_1.9V/GetVloss.o
+                0x0000000000004ba2                GetVloss
+ .text.message2line
+                0x0000000000004d02       0x80 ../Obj/mega328_1.9V/function_menu.o
+                0x0000000000004d02                message2line
+ .text.show_C_ESR
+                0x0000000000004d82       0xca ../Obj/mega328_1.9V/function_menu.o
+                0x0000000000004d82                show_C_ESR
+ .text.make_frequency
+                0x0000000000004e4c      0x30a ../Obj/mega328_1.9V/function_menu.o
+                0x0000000000004e4c                make_frequency
+ .text.do_10bit_PWM
+                0x0000000000005156      0x12e ../Obj/mega328_1.9V/function_menu.o
+                0x0000000000005156                do_10bit_PWM
+ .text.set_big_cap_corr
+                0x0000000000005284       0x96 ../Obj/mega328_1.9V/function_menu.o
+                0x0000000000005284                set_big_cap_corr
+ .text.do_menu  0x000000000000531a       0x5c ../Obj/mega328_1.9V/function_menu.o
+                0x000000000000531a                do_menu
+ .text.function_menu
+                0x0000000000005376       0x5a ../Obj/mega328_1.9V/function_menu.o
+                0x0000000000005376                function_menu
+ .text.message_key_released
+                0x00000000000053d0       0x2a ../Obj/mega328_1.9V/message_key_released.o
+                0x00000000000053d0                message_key_released
+ .text.GetFrequency
+                0x00000000000053fa      0x33e ../Obj/mega328_1.9V/GetFrequency.o
+                0x00000000000053fa                GetFrequency
+ .text.__vector_16
+                0x0000000000005738       0x4c ../Obj/mega328_1.9V/GetFrequency.o
+                0x0000000000005738                __vector_16
+ .text.__vector_11
+                0x0000000000005784       0x1c ../Obj/mega328_1.9V/GetFrequency.o
+                0x0000000000005784                __vector_11
+ .text.__vector_12
+                0x00000000000057a0       0x1c ../Obj/mega328_1.9V/GetFrequency.o
+                0x00000000000057a0                __vector_12
+ .text.__vector_5
+                0x00000000000057bc       0x68 ../Obj/mega328_1.9V/GetFrequency.o
+                0x00000000000057bc                __vector_5
+ .text.ReadBigCap
+                0x0000000000005824      0x26c ../Obj/mega328_1.9V/ReadBigCap.o
+                0x0000000000005824                ReadBigCap
+ .text.CheckUJT
+                0x0000000000005a90      0x16a ../Obj/mega328_1.9V/CheckUJT.o
+                0x0000000000005a90                CheckUJT
+ .text.ShowData
+                0x0000000000005bfa      0x20a ../Obj/mega328_1.9V/ShowData.o
+                0x0000000000005bfa                ShowData
+ .text.mylog    0x0000000000005e04       0xb4 ../Obj/mega328_1.9V/sampling_cap.o
+ .text.sampling_cap
+                0x0000000000005eb8      0x1bc ../Obj/mega328_1.9V/sampling_cap.o
+                0x0000000000005eb8                sampling_cap
+ .text.sampling_cap_calibrate
+                0x0000000000006074       0xea ../Obj/mega328_1.9V/sampling_cap.o
+                0x0000000000006074                sampling_cap_calibrate
+ .text.peaksearch
+                0x000000000000615e      0x23c ../Obj/mega328_1.9V/sampling_lc.o
+ .text.sampling_lc
+                0x000000000000639a      0x304 ../Obj/mega328_1.9V/sampling_lc.o
+                0x000000000000639a                sampling_lc
+ .text.sampling_lc_calibrate
+                0x000000000000669e       0x8c ../Obj/mega328_1.9V/sampling_lc.o
+                0x000000000000669e                sampling_lc_calibrate
+ .text.libgcc.mul
+                0x000000000000672a       0x1e /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulsi3.o)
+                0x000000000000672a                __mulsi3
+ .text.libgcc.div
+                0x0000000000006748       0x18 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodqi4.o)
+                0x0000000000006748                __udivmodqi4
+ .text.libgcc.div
+                0x0000000000006760       0x28 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodhi4.o)
+                0x0000000000006760                __udivmodhi4
+ .text.libgcc.div
+                0x0000000000006788       0x26 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodhi4.o)
+                0x0000000000006788                __divmodhi4
+                0x0000000000006788                _div
+ .text.libgcc.div
+                0x00000000000067ae       0x44 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmodsi4.o)
+                0x00000000000067ae                __udivmodsi4
+ .text.libgcc.div
+                0x00000000000067f2       0x28 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_divmodsi4.o)
+                0x00000000000067f2                __divmodsi4
+ .text.libgcc.div
+                0x000000000000681a       0x10 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_negsi2.o)
+                0x000000000000681a                __negsi2
+ .text.libgcc.mul
+                0x000000000000682a       0x1e /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulhisi3.o)
+                0x000000000000682a                __umulhisi3
+ .text.libgcc.mul
+                0x0000000000006848        0xc /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_usmulhisi3.o)
+                0x0000000000006848                __usmulhisi3
+                0x000000000000684a                __usmulhisi3_tail
+ .text.libgcc.mul
+                0x0000000000006854       0x14 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muluhisi3.o)
+                0x0000000000006854                __muluhisi3
+ .text.libgcc.mul
+                0x0000000000006868        0xc /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_mulshisi3.o)
+                0x0000000000006868                __mulshisi3
+                0x000000000000686c                __mulohisi3
+ .text.libgcc.mul
+                0x0000000000006874       0x4e /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_umulsidi3.o)
+                0x0000000000006874                __umulsidi3
+                0x0000000000006876                __umulsidi3_helper
+ .text.libgcc.div
+                0x00000000000068c2       0x1a /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivdi3.o)
+                0x00000000000068c2                __umoddi3
+                0x00000000000068c6                __udivdi3
+                0x00000000000068c8                __udivdi3_umoddi3
+ .text.libgcc.div
+                0x00000000000068dc       0xa2 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_udivmod64.o)
+                0x00000000000068dc                __udivmod64
+ .text.libgcc.prologue
+                0x000000000000697e       0x38 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_prologue.o)
+                0x000000000000697e                __prologue_saves__
+ .text.libgcc.prologue
+                0x00000000000069b6       0x36 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_epilogue.o)
+                0x00000000000069b6                __epilogue_restores__
+ .text.libgcc.mul
+                0x00000000000069ec       0x10 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_muldi3_6.o)
+                0x00000000000069ec                __muldi3_6
+ .text.avr-libc
+                0x00000000000069fc       0x42 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                0x00000000000069fc                __ultoa_ncheck
+                0x00000000000069fe                __ultoa_common
+ .text.avr-libc
+                0x0000000000006a3e       0x14 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa.o)
+                0x0000000000006a3e                utoa
+                0x0000000000006a3e                __utoa
+ .text.avr-libc
+                0x0000000000006a52       0x32 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                0x0000000000006a52                __utoa_ncheck
+                0x0000000000006a54                __utoa_common
+ .text.avr-libc
+                0x0000000000006a84       0x20 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a(strrev.o)
+                0x0000000000006a84                strrev
+ .text.avr-libc
+                0x0000000000006aa4       0x10 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_byte.o)
+                0x0000000000006aa4                eeprom_read_byte
+ .text.avr-libc
+                0x0000000000006ab4        0xa /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_word.o)
+                0x0000000000006ab4                eeprom_read_word
+ .text.avr-libc
+                0x0000000000006abe       0x1c /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eewr_byte.o)
+                0x0000000000006abe                eeprom_write_byte
+                0x0000000000006ac0                eeprom_write_r18
+ .text.avr-libc
+                0x0000000000006ada        0x6 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eewr_word.o)
+                0x0000000000006ada                eeprom_write_word
+ .text.avr-libc
+                0x0000000000006ae0       0x20 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libatmega328.a(eerd_block.o)
+                0x0000000000006ae0                eeprom_read_block
+                0x0000000000006ae4                eeprom_read_blraw
+                0x0000000000006b00                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000006b00        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+                0x0000000000006b00                exit
+                0x0000000000006b00                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000006b00        0x4 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000006b04                _etext = .
+
+.data           0x0000000000800100        0x0 load address 0x0000000000006b04
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0000000000800100                . = ALIGN (0x2)
+                0x0000000000800100                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000800100       0xba
+                0x0000000000800100                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x0000000000800100        0x2 ../Obj/mega328_1.9V/lcd-routines.o
+                0x0000000000800100                last_text_column
+                0x0000000000800101                last_text_line
+ COMMON         0x0000000000800102       0xac ../Obj/mega328_1.9V/main.o
+                0x0000000000800102                diode_sequence
+                0x0000000000800103                ext_freq
+                0x0000000000800107                display_time
+                0x0000000000800109                resis680mi
+                0x000000000080010b                ref_mv_offs
+                0x000000000080010d                NumOfDiodes
+                0x000000000080010e                PartMode
+                0x000000000080010f                PartFound
+                0x0000000000800110                resis680pl
+                0x0000000000800112                tmpval
+                0x0000000000800113                adc_vcc_reference
+                0x0000000000800115                inductor_lpre
+                0x0000000000800116                mess_count
+                0x0000000000800117                outval
+                0x0000000000800121                ADCconfig
+                0x0000000000800127                pin_rpl
+                0x0000000000800129                ref_mv
+                0x000000000080012b                DC_Pwr_mode
+                0x000000000080012c                tmpval2
+                0x000000000080012d                UnCalibrated
+                0x000000000080012e                pin_rmi
+                0x0000000000800130                WithReference
+                0x0000000000800131                _lcd_column
+                0x0000000000800132                _trans
+                0x0000000000800134                last_line_used
+                0x0000000000800135                ntrans
+                0x0000000000800145                empty_count
+                0x0000000000800146                pin_combination
+                0x0000000000800147                ovcnt16
+                0x0000000000800149                cell_mv
+                0x000000000080014f                ResistorChecked
+                0x0000000000800152                ResistorList
+                0x0000000000800155                ptrans
+                0x0000000000800165                pinchange_max
+                0x0000000000800167                pinchange_count
+                0x0000000000800169                adc_internal_reference
+                0x000000000080016b                ResistorsFound
+                0x000000000080016c                unfinished
+                0x000000000080016d                RHmultip
+                0x000000000080016f                cap
+                0x0000000000800183                load_diff
+                0x0000000000800185                diodes
+                0x000000000080019d                inductor_lx
+                0x00000000008001a1                lcd_text_line
+                0x00000000008001a2                ResistorVal
+ COMMON         0x00000000008001ae        0xc ../Obj/mega328_1.9V/sampling_lc.o
+                0x00000000008001ae                lc_fx
+                0x00000000008001b2                lc_cpartmp
+                0x00000000008001b4                lc_qx
+                0x00000000008001b6                lc_lx
+                0x00000000008001ba                PROVIDE (__bss_end, .)
+                0x0000000000006b04                __data_load_start = LOADADDR (.data)
+                0x0000000000006b04                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008001ba        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x00000000008001ba                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000      0x350
+ *(.eeprom*)
+ .eeprom        0x0000000000810000      0x343 ../Obj/mega328_1.9V/main.o
+                0x0000000000810014                cap_for_l_meas_str
+                0x0000000000810024                REF_R_str
+                0x000000000081002b                REF_C_str
+                0x0000000000810032                MinCap_str
+                0x000000000081003a                PrefixTab
+                0x0000000000810042                ResIcon3
+                0x000000000081004a                ResIcon2
+                0x0000000000810052                ResIcon1
+                0x000000000081005a                DiodeIcon2
+                0x0000000000810062                DiodeIcon1
+                0x000000000081006a                CapIcon
+                0x0000000000810072                RDS_str
+                0x0000000000810077                CMETER_13_str
+                0x000000000081007b                CAP_13_str
+                0x0000000000810082                RESIS_13_str
+                0x000000000081008d                C_ESR_str
+                0x0000000000810099                FatTP2_str
+                0x000000000081009f                T50HZ
+                0x00000000008100a5                C0samp_str
+                0x00000000008100ad                C0_str
+                0x00000000008100b1                RILO_str
+                0x00000000008100b8                RIHI_str
+                0x00000000008100bf                R0_str
+                0x00000000008100c3                RHRL_str
+                0x00000000008100c9                RHRH_str
+                0x00000000008100d7                RLRL_str
+                0x00000000008100e5                RH1H_str
+                0x00000000008100e9                RH1L_str
+                0x00000000008100ed                RHfakt_str
+                0x00000000008100f2                URef_str
+                0x00000000008100f7                ICEs_str
+                0x00000000008100fd                ICE0_str
+                0x0000000000810103                VERSION_str
+                0x0000000000810111                Inductor_str
+                0x0000000000810116                Resistor_str
+                0x000000000081011b                Dioden
+                0x0000000000810120                zQ_str
+                0x0000000000810125                iF_str
+                0x000000000081012a                AT05volt
+                0x0000000000810131                KatAn_str
+                0x0000000000810135                AnKat_str
+                0x0000000000810139                Ir_str
+                0x000000000081013f                Lis_str
+                0x0000000000810142                VLOSS_str
+                0x000000000081014a                ESR_str
+                0x0000000000810150                VCC_str
+                0x0000000000810155                Cell_str
+                0x000000000081015b                CapZeich
+                0x000000000081015f                Vgs_str
+                0x0000000000810164                vt_str
+                0x0000000000810169                Uf_str
+                0x000000000081016d                Ube_str
+                0x0000000000810172                N123_str
+                0x0000000000810178                PNP_str
+                0x000000000081017c                NPN_str
+                0x0000000000810180                Cap_str
+                0x0000000000810183                GateCap_str
+                0x0000000000810186                hfe_str
+                0x0000000000810189                igbt_str
+                0x000000000081018f                jfet_str
+                0x0000000000810194                mosfet_str
+                0x0000000000810199                DC_Pwr_Mode_str
+                0x00000000008101a5                OK_str
+                0x00000000008101a8                Bat_str
+                0x00000000008101ae                SHORT_PROBES_str
+                0x00000000008101bd                FULLCHECK_str
+                0x00000000008101c8                TURN_str
+                0x00000000008101d0                SetCapCorr_str
+                0x00000000008101e0                PWM_10bit_str
+                0x00000000008101eb                F_GEN_str
+                0x00000000008101f7                OFF_str
+                0x0000000000810203                SHOW_str
+                0x000000000081020f                VOLTAGE_str
+                0x0000000000810218                FREQ_str
+                0x0000000000810221                TESTER_str
+                0x000000000081022c                SELECTION_str
+                0x0000000000810235                ATE
+                0x000000000081023f                RELPROBE
+                0x000000000081024c                SELFTEST
+                0x000000000081025a                TestTimedOut
+                0x0000000000810263                Detected
+                0x000000000081026f                TestFailed1
+                0x0000000000810280                Unknown
+                0x0000000000810288                Thyristor
+                0x0000000000810291                Triac
+                0x0000000000810297                Bauteil
+                0x000000000081029f                TestFailed2
+                0x00000000008102a9                BatEmpty
+                0x00000000008102af                BatWeak
+                0x00000000008102b6                TestRunning
+                0x00000000008102be                RLtab
+                0x0000000000810318                EE_ESR_ZEROtab
+                0x000000000081031c                big_cap_corr
+                0x000000000081031d                c_zero_tab2_hi
+                0x000000000081032b                c_zero_tab2_lo
+                0x0000000000810339                c_zero_tab
+                0x0000000000810340                ref_offset
+                0x0000000000810342                RefDiff
+ .eeprom        0x0000000000810343        0xb ../Obj/mega328_1.9V/show_Resis_Cap.o
+                0x0000000000810343                RL_METER_str
+ .eeprom        0x000000000081034e        0x2 ../Obj/mega328_1.9V/sampling_lc.o
+                0x000000000081034e                lc_cpar_ee
+                0x0000000000810350                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 ../Obj/mega328_1.9V/lcd-routines.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/DisplayValue.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/main.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/Battery_check.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/CheckPins.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/GetResistance.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/ChargePin10ms.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/EntladePins.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/ReadCapacity.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/ReadInductance.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/GetVloss.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/function_menu.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/message_key_released.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/GetFrequency.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/ReadBigCap.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/CheckUJT.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/ShowData.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/sampling_cap.o
+ .comment       0x0000000000000011       0x12 ../Obj/mega328_1.9V/sampling_lc.o
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x670
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 ../Obj/mega328_1.9V/lcd_hw_4_bit.o
+ .debug_aranges
+                0x0000000000000020       0xe8 ../Obj/mega328_1.9V/lcd-routines.o
+ .debug_aranges
+                0x0000000000000108       0x20 ../Obj/mega328_1.9V/i2lcd.o
+ .debug_aranges
+                0x0000000000000128       0x20 ../Obj/mega328_1.9V/PinLayout.o
+ .debug_aranges
+                0x0000000000000148       0x20 ../Obj/mega328_1.9V/RvalOut.o
+ .debug_aranges
+                0x0000000000000168       0x20 ../Obj/mega328_1.9V/UfAusgabe.o
+ .debug_aranges
+                0x0000000000000188       0x38 ../Obj/mega328_1.9V/DisplayValue.o
+ .debug_aranges
+                0x00000000000001c0       0x20 ../Obj/mega328_1.9V/swuart.o
+ .debug_aranges
+                0x00000000000001e0       0x20 ../Obj/mega328_1.9V/wait1000ms.o
+ .debug_aranges
+                0x0000000000000200       0x20 ../Obj/mega328_1.9V/sleep_5ms.o
+ .debug_aranges
+                0x0000000000000220       0x20 ../Obj/mega328_1.9V/ReadADC.o
+ .debug_aranges
+                0x0000000000000240       0x28 ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .debug_aranges
+                0x0000000000000268       0x20 ../Obj/mega328_1.9V/RefVoltage.o
+ .debug_aranges
+                0x0000000000000288       0x70 ../Obj/mega328_1.9V/main.o
+ .debug_aranges
+                0x00000000000002f8       0x20 ../Obj/mega328_1.9V/Battery_check.o
+ .debug_aranges
+                0x0000000000000318       0x28 ../Obj/mega328_1.9V/CheckPins.o
+ .debug_aranges
+                0x0000000000000340       0x20 ../Obj/mega328_1.9V/GetResistance.o
+ .debug_aranges
+                0x0000000000000360       0x20 ../Obj/mega328_1.9V/ChargePin10ms.o
+ .debug_aranges
+                0x0000000000000380       0x20 ../Obj/mega328_1.9V/EntladePins.o
+ .debug_aranges
+                0x00000000000003a0       0x38 ../Obj/mega328_1.9V/ReadCapacity.o
+ .debug_aranges
+                0x00000000000003d8       0x20 ../Obj/mega328_1.9V/GetRLmultip.o
+ .debug_aranges
+                0x00000000000003f8       0x20 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .debug_aranges
+                0x0000000000000418       0x48 ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .debug_aranges
+                0x0000000000000460       0x20 ../Obj/mega328_1.9V/get_log.o
+ .debug_aranges
+                0x0000000000000480       0x20 ../Obj/mega328_1.9V/ReadInductance.o
+ .debug_aranges
+                0x00000000000004a0       0x20 ../Obj/mega328_1.9V/GetESR.o
+ .debug_aranges
+                0x00000000000004c0       0x20 ../Obj/mega328_1.9V/GetVloss.o
+ .debug_aranges
+                0x00000000000004e0       0x50 ../Obj/mega328_1.9V/function_menu.o
+ .debug_aranges
+                0x0000000000000530       0x20 ../Obj/mega328_1.9V/message_key_released.o
+ .debug_aranges
+                0x0000000000000550       0x40 ../Obj/mega328_1.9V/GetFrequency.o
+ .debug_aranges
+                0x0000000000000590       0x20 ../Obj/mega328_1.9V/ReadBigCap.o
+ .debug_aranges
+                0x00000000000005b0       0x20 ../Obj/mega328_1.9V/CheckUJT.o
+ .debug_aranges
+                0x00000000000005d0       0x20 ../Obj/mega328_1.9V/ShowData.o
+ .debug_aranges
+                0x00000000000005f0       0x20 ../Obj/mega328_1.9V/samplingADC.o
+ .debug_aranges
+                0x0000000000000610       0x30 ../Obj/mega328_1.9V/sampling_cap.o
+ .debug_aranges
+                0x0000000000000640       0x30 ../Obj/mega328_1.9V/sampling_lc.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xb56b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x5f4 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+ .debug_info    0x00000000000005f4       0x63 ../Obj/mega328_1.9V/lcd_hw_4_bit.o
+ .debug_info    0x0000000000000657      0xc27 ../Obj/mega328_1.9V/lcd-routines.o
+ .debug_info    0x000000000000127e       0x5c ../Obj/mega328_1.9V/i2lcd.o
+ .debug_info    0x00000000000012da       0x60 ../Obj/mega328_1.9V/PinLayout.o
+ .debug_info    0x000000000000133a       0x5e ../Obj/mega328_1.9V/RvalOut.o
+ .debug_info    0x0000000000001398       0x60 ../Obj/mega328_1.9V/UfAusgabe.o
+ .debug_info    0x00000000000013f8      0x483 ../Obj/mega328_1.9V/DisplayValue.o
+ .debug_info    0x000000000000187b       0x5d ../Obj/mega328_1.9V/swuart.o
+ .debug_info    0x00000000000018d8       0x61 ../Obj/mega328_1.9V/wait1000ms.o
+ .debug_info    0x0000000000001939       0x60 ../Obj/mega328_1.9V/sleep_5ms.o
+ .debug_info    0x0000000000001999       0x5e ../Obj/mega328_1.9V/ReadADC.o
+ .debug_info    0x00000000000019f7      0x212 ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .debug_info    0x0000000000001c09       0x61 ../Obj/mega328_1.9V/RefVoltage.o
+ .debug_info    0x0000000000001c6a     0x3452 ../Obj/mega328_1.9V/main.o
+ .debug_info    0x00000000000050bc      0x245 ../Obj/mega328_1.9V/Battery_check.o
+ .debug_info    0x0000000000005301     0x11df ../Obj/mega328_1.9V/CheckPins.o
+ .debug_info    0x00000000000064e0      0x60e ../Obj/mega328_1.9V/GetResistance.o
+ .debug_info    0x0000000000006aee       0xc9 ../Obj/mega328_1.9V/ChargePin10ms.o
+ .debug_info    0x0000000000006bb7      0x1a4 ../Obj/mega328_1.9V/EntladePins.o
+ .debug_info    0x0000000000006d5b      0x5e2 ../Obj/mega328_1.9V/ReadCapacity.o
+ .debug_info    0x000000000000733d       0x62 ../Obj/mega328_1.9V/GetRLmultip.o
+ .debug_info    0x000000000000739f      0x2b3 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .debug_info    0x0000000000007652      0xb38 ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .debug_info    0x000000000000818a       0x5e ../Obj/mega328_1.9V/get_log.o
+ .debug_info    0x00000000000081e8      0x479 ../Obj/mega328_1.9V/ReadInductance.o
+ .debug_info    0x0000000000008661       0x5d ../Obj/mega328_1.9V/GetESR.o
+ .debug_info    0x00000000000086be      0x31b ../Obj/mega328_1.9V/GetVloss.o
+ .debug_info    0x00000000000089d9      0xa7c ../Obj/mega328_1.9V/function_menu.o
+ .debug_info    0x0000000000009455      0x12a ../Obj/mega328_1.9V/message_key_released.o
+ .debug_info    0x000000000000957f      0x382 ../Obj/mega328_1.9V/GetFrequency.o
+ .debug_info    0x0000000000009901      0x3a0 ../Obj/mega328_1.9V/ReadBigCap.o
+ .debug_info    0x0000000000009ca1      0x44e ../Obj/mega328_1.9V/CheckUJT.o
+ .debug_info    0x000000000000a0ef      0x684 ../Obj/mega328_1.9V/ShowData.o
+ .debug_info    0x000000000000a773       0x62 ../Obj/mega328_1.9V/samplingADC.o
+ .debug_info    0x000000000000a7d5      0x5ec ../Obj/mega328_1.9V/sampling_cap.o
+ .debug_info    0x000000000000adc1      0x7aa ../Obj/mega328_1.9V/sampling_lc.o
+
+.debug_abbrev   0x0000000000000000     0x268a
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x5a2 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+ .debug_abbrev  0x00000000000005a2       0x14 ../Obj/mega328_1.9V/lcd_hw_4_bit.o
+ .debug_abbrev  0x00000000000005b6      0x240 ../Obj/mega328_1.9V/lcd-routines.o
+ .debug_abbrev  0x00000000000007f6       0x14 ../Obj/mega328_1.9V/i2lcd.o
+ .debug_abbrev  0x000000000000080a       0x14 ../Obj/mega328_1.9V/PinLayout.o
+ .debug_abbrev  0x000000000000081e       0x14 ../Obj/mega328_1.9V/RvalOut.o
+ .debug_abbrev  0x0000000000000832       0x14 ../Obj/mega328_1.9V/UfAusgabe.o
+ .debug_abbrev  0x0000000000000846      0x1a5 ../Obj/mega328_1.9V/DisplayValue.o
+ .debug_abbrev  0x00000000000009eb       0x14 ../Obj/mega328_1.9V/swuart.o
+ .debug_abbrev  0x00000000000009ff       0x14 ../Obj/mega328_1.9V/wait1000ms.o
+ .debug_abbrev  0x0000000000000a13       0x14 ../Obj/mega328_1.9V/sleep_5ms.o
+ .debug_abbrev  0x0000000000000a27       0x14 ../Obj/mega328_1.9V/ReadADC.o
+ .debug_abbrev  0x0000000000000a3b       0xfd ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .debug_abbrev  0x0000000000000b38       0x14 ../Obj/mega328_1.9V/RefVoltage.o
+ .debug_abbrev  0x0000000000000b4c      0x332 ../Obj/mega328_1.9V/main.o
+ .debug_abbrev  0x0000000000000e7e       0xcf ../Obj/mega328_1.9V/Battery_check.o
+ .debug_abbrev  0x0000000000000f4d      0x1bd ../Obj/mega328_1.9V/CheckPins.o
+ .debug_abbrev  0x000000000000110a      0x160 ../Obj/mega328_1.9V/GetResistance.o
+ .debug_abbrev  0x000000000000126a       0x8b ../Obj/mega328_1.9V/ChargePin10ms.o
+ .debug_abbrev  0x00000000000012f5       0xbb ../Obj/mega328_1.9V/EntladePins.o
+ .debug_abbrev  0x00000000000013b0      0x1a3 ../Obj/mega328_1.9V/ReadCapacity.o
+ .debug_abbrev  0x0000000000001553       0x14 ../Obj/mega328_1.9V/GetRLmultip.o
+ .debug_abbrev  0x0000000000001567       0xe3 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .debug_abbrev  0x000000000000164a      0x20f ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .debug_abbrev  0x0000000000001859       0x14 ../Obj/mega328_1.9V/get_log.o
+ .debug_abbrev  0x000000000000186d      0x160 ../Obj/mega328_1.9V/ReadInductance.o
+ .debug_abbrev  0x00000000000019cd       0x14 ../Obj/mega328_1.9V/GetESR.o
+ .debug_abbrev  0x00000000000019e1      0x140 ../Obj/mega328_1.9V/GetVloss.o
+ .debug_abbrev  0x0000000000001b21      0x20f ../Obj/mega328_1.9V/function_menu.o
+ .debug_abbrev  0x0000000000001d30       0xb7 ../Obj/mega328_1.9V/message_key_released.o
+ .debug_abbrev  0x0000000000001de7      0x142 ../Obj/mega328_1.9V/GetFrequency.o
+ .debug_abbrev  0x0000000000001f29      0x17c ../Obj/mega328_1.9V/ReadBigCap.o
+ .debug_abbrev  0x00000000000020a5      0x181 ../Obj/mega328_1.9V/CheckUJT.o
+ .debug_abbrev  0x0000000000002226       0xda ../Obj/mega328_1.9V/ShowData.o
+ .debug_abbrev  0x0000000000002300       0x14 ../Obj/mega328_1.9V/samplingADC.o
+ .debug_abbrev  0x0000000000002314      0x189 ../Obj/mega328_1.9V/sampling_cap.o
+ .debug_abbrev  0x000000000000249d      0x1ed ../Obj/mega328_1.9V/sampling_lc.o
+
+.debug_line     0x0000000000000000     0x75ea
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1a /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+ .debug_line    0x000000000000001a      0x14e ../Obj/mega328_1.9V/lcd_hw_4_bit.o
+ .debug_line    0x0000000000000168      0x583 ../Obj/mega328_1.9V/lcd-routines.o
+ .debug_line    0x00000000000006eb       0xd4 ../Obj/mega328_1.9V/i2lcd.o
+ .debug_line    0x00000000000007bf      0x151 ../Obj/mega328_1.9V/PinLayout.o
+ .debug_line    0x0000000000000910      0x106 ../Obj/mega328_1.9V/RvalOut.o
+ .debug_line    0x0000000000000a16      0x264 ../Obj/mega328_1.9V/UfAusgabe.o
+ .debug_line    0x0000000000000c7a      0x26c ../Obj/mega328_1.9V/DisplayValue.o
+ .debug_line    0x0000000000000ee6       0xa5 ../Obj/mega328_1.9V/swuart.o
+ .debug_line    0x0000000000000f8b      0x116 ../Obj/mega328_1.9V/wait1000ms.o
+ .debug_line    0x00000000000010a1      0x120 ../Obj/mega328_1.9V/sleep_5ms.o
+ .debug_line    0x00000000000011c1      0x26f ../Obj/mega328_1.9V/ReadADC.o
+ .debug_line    0x0000000000001430      0x1a3 ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .debug_line    0x00000000000015d3      0x1db ../Obj/mega328_1.9V/RefVoltage.o
+ .debug_line    0x00000000000017ae     0x13c4 ../Obj/mega328_1.9V/main.o
+ .debug_line    0x0000000000002b72      0x132 ../Obj/mega328_1.9V/Battery_check.o
+ .debug_line    0x0000000000002ca4      0xb16 ../Obj/mega328_1.9V/CheckPins.o
+ .debug_line    0x00000000000037ba      0x2e8 ../Obj/mega328_1.9V/GetResistance.o
+ .debug_line    0x0000000000003aa2       0xa6 ../Obj/mega328_1.9V/ChargePin10ms.o
+ .debug_line    0x0000000000003b48      0x1e8 ../Obj/mega328_1.9V/EntladePins.o
+ .debug_line    0x0000000000003d30      0x522 ../Obj/mega328_1.9V/ReadCapacity.o
+ .debug_line    0x0000000000004252      0x188 ../Obj/mega328_1.9V/GetRLmultip.o
+ .debug_line    0x00000000000043da      0x1b5 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .debug_line    0x000000000000458f      0x463 ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .debug_line    0x00000000000049f2       0xfa ../Obj/mega328_1.9V/get_log.o
+ .debug_line    0x0000000000004aec      0x3a6 ../Obj/mega328_1.9V/ReadInductance.o
+ .debug_line    0x0000000000004e92      0x8aa ../Obj/mega328_1.9V/GetESR.o
+ .debug_line    0x000000000000573c      0x1fb ../Obj/mega328_1.9V/GetVloss.o
+ .debug_line    0x0000000000005937      0x7f2 ../Obj/mega328_1.9V/function_menu.o
+ .debug_line    0x0000000000006129       0xb9 ../Obj/mega328_1.9V/message_key_released.o
+ .debug_line    0x00000000000061e2      0x359 ../Obj/mega328_1.9V/GetFrequency.o
+ .debug_line    0x000000000000653b      0x250 ../Obj/mega328_1.9V/ReadBigCap.o
+ .debug_line    0x000000000000678b      0x19e ../Obj/mega328_1.9V/CheckUJT.o
+ .debug_line    0x0000000000006929      0x210 ../Obj/mega328_1.9V/ShowData.o
+ .debug_line    0x0000000000006b39      0x309 ../Obj/mega328_1.9V/samplingADC.o
+ .debug_line    0x0000000000006e42      0x2b0 ../Obj/mega328_1.9V/sampling_cap.o
+ .debug_line    0x00000000000070f2      0x4f8 ../Obj/mega328_1.9V/sampling_lc.o
+
+.debug_frame    0x0000000000000000      0xc4c
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x20c ../Obj/mega328_1.9V/lcd-routines.o
+ .debug_frame   0x000000000000020c       0x94 ../Obj/mega328_1.9V/DisplayValue.o
+ .debug_frame   0x00000000000002a0       0x5c ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .debug_frame   0x00000000000002fc      0x14c ../Obj/mega328_1.9V/main.o
+ .debug_frame   0x0000000000000448       0x38 ../Obj/mega328_1.9V/Battery_check.o
+ .debug_frame   0x0000000000000480       0x68 ../Obj/mega328_1.9V/CheckPins.o
+ .debug_frame   0x00000000000004e8       0x48 ../Obj/mega328_1.9V/GetResistance.o
+ .debug_frame   0x0000000000000530       0x2c ../Obj/mega328_1.9V/ChargePin10ms.o
+ .debug_frame   0x000000000000055c       0x3c ../Obj/mega328_1.9V/EntladePins.o
+ .debug_frame   0x0000000000000598       0xb4 ../Obj/mega328_1.9V/ReadCapacity.o
+ .debug_frame   0x000000000000064c       0x40 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .debug_frame   0x000000000000068c       0xd4 ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .debug_frame   0x0000000000000760       0x4c ../Obj/mega328_1.9V/ReadInductance.o
+ .debug_frame   0x00000000000007ac       0x40 ../Obj/mega328_1.9V/GetVloss.o
+ .debug_frame   0x00000000000007ec       0xfc ../Obj/mega328_1.9V/function_menu.o
+ .debug_frame   0x00000000000008e8       0x30 ../Obj/mega328_1.9V/message_key_released.o
+ .debug_frame   0x0000000000000918       0xe8 ../Obj/mega328_1.9V/GetFrequency.o
+ .debug_frame   0x0000000000000a00       0x3c ../Obj/mega328_1.9V/ReadBigCap.o
+ .debug_frame   0x0000000000000a3c       0x4c ../Obj/mega328_1.9V/CheckUJT.o
+ .debug_frame   0x0000000000000a88       0x48 ../Obj/mega328_1.9V/ShowData.o
+ .debug_frame   0x0000000000000ad0       0xdc ../Obj/mega328_1.9V/sampling_cap.o
+ .debug_frame   0x0000000000000bac       0xa0 ../Obj/mega328_1.9V/sampling_lc.o
+
+.debug_str      0x0000000000000000     0x192c
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x208 /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/crtatmega328.o
+ .debug_str     0x0000000000000208      0x45c ../Obj/mega328_1.9V/lcd-routines.o
+                                        0x4bb (size before relaxing)
+ .debug_str     0x0000000000000664       0xb5 ../Obj/mega328_1.9V/DisplayValue.o
+                                        0x282 (size before relaxing)
+ .debug_str     0x0000000000000719       0x59 ../Obj/mega328_1.9V/wait_for_key_ms.o
+                                        0x242 (size before relaxing)
+ .debug_str     0x0000000000000772      0x9a3 ../Obj/mega328_1.9V/main.o
+                                        0xdd1 (size before relaxing)
+ .debug_str     0x0000000000001115       0x33 ../Obj/mega328_1.9V/Battery_check.o
+                                        0x242 (size before relaxing)
+ .debug_str     0x0000000000001148      0x167 ../Obj/mega328_1.9V/CheckPins.o
+                                        0x3d7 (size before relaxing)
+ .debug_str     0x00000000000012af       0x33 ../Obj/mega328_1.9V/GetResistance.o
+                                        0x35f (size before relaxing)
+ .debug_str     0x00000000000012e2       0x2f ../Obj/mega328_1.9V/ChargePin10ms.o
+                                        0x1ac (size before relaxing)
+ .debug_str     0x0000000000001311       0x31 ../Obj/mega328_1.9V/EntladePins.o
+                                        0x1db (size before relaxing)
+ .debug_str     0x0000000000001342       0xd7 ../Obj/mega328_1.9V/ReadCapacity.o
+                                        0x3eb (size before relaxing)
+ .debug_str     0x0000000000001419       0x30 ../Obj/mega328_1.9V/Calibrate_UR.o
+                                        0x268 (size before relaxing)
+ .debug_str     0x0000000000001449       0xef ../Obj/mega328_1.9V/show_Resis_Cap.o
+                                        0x4d7 (size before relaxing)
+ .debug_str     0x0000000000001538       0x92 ../Obj/mega328_1.9V/ReadInductance.o
+                                        0x335 (size before relaxing)
+ .debug_str     0x00000000000015ca       0x20 ../Obj/mega328_1.9V/GetVloss.o
+                                        0x261 (size before relaxing)
+ .debug_str     0x00000000000015ea      0x125 ../Obj/mega328_1.9V/function_menu.o
+                                        0x501 (size before relaxing)
+ .debug_str     0x000000000000170f       0x21 ../Obj/mega328_1.9V/message_key_released.o
+                                        0x1ce (size before relaxing)
+ .debug_str     0x0000000000001730       0x69 ../Obj/mega328_1.9V/GetFrequency.o
+                                        0x296 (size before relaxing)
+ .debug_str     0x0000000000001799       0x18 ../Obj/mega328_1.9V/ReadBigCap.o
+                                        0x2c2 (size before relaxing)
+ .debug_str     0x00000000000017b1       0x63 ../Obj/mega328_1.9V/CheckUJT.o
+                                        0x289 (size before relaxing)
+ .debug_str     0x0000000000001814        0xe ../Obj/mega328_1.9V/ShowData.o
+                                        0x2fb (size before relaxing)
+ .debug_str     0x0000000000001822       0x4a ../Obj/mega328_1.9V/sampling_cap.o
+                                        0x322 (size before relaxing)
+ .debug_str     0x000000000000186c       0xc0 ../Obj/mega328_1.9V/sampling_lc.o
+                                        0x3c7 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x6b24
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x446 ../Obj/mega328_1.9V/lcd-routines.o
+ .debug_loc     0x0000000000000446      0x4c2 ../Obj/mega328_1.9V/DisplayValue.o
+ .debug_loc     0x0000000000000908      0x14a ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .debug_loc     0x0000000000000a52      0xaa2 ../Obj/mega328_1.9V/main.o
+ .debug_loc     0x00000000000014f4       0x89 ../Obj/mega328_1.9V/Battery_check.o
+ .debug_loc     0x000000000000157d     0x1c78 ../Obj/mega328_1.9V/CheckPins.o
+ .debug_loc     0x00000000000031f5      0x7fd ../Obj/mega328_1.9V/GetResistance.o
+ .debug_loc     0x00000000000039f2       0x72 ../Obj/mega328_1.9V/ChargePin10ms.o
+ .debug_loc     0x0000000000003a64      0x19f ../Obj/mega328_1.9V/EntladePins.o
+ .debug_loc     0x0000000000003c03      0x3ab ../Obj/mega328_1.9V/ReadCapacity.o
+ .debug_loc     0x0000000000003fae       0x72 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .debug_loc     0x0000000000004020      0x366 ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .debug_loc     0x0000000000004386      0x3f5 ../Obj/mega328_1.9V/ReadInductance.o
+ .debug_loc     0x000000000000477b      0x23c ../Obj/mega328_1.9V/GetVloss.o
+ .debug_loc     0x00000000000049b7      0x8be ../Obj/mega328_1.9V/function_menu.o
+ .debug_loc     0x0000000000005275       0xa9 ../Obj/mega328_1.9V/message_key_released.o
+ .debug_loc     0x000000000000531e      0x349 ../Obj/mega328_1.9V/GetFrequency.o
+ .debug_loc     0x0000000000005667      0x106 ../Obj/mega328_1.9V/ReadBigCap.o
+ .debug_loc     0x000000000000576d      0x27b ../Obj/mega328_1.9V/CheckUJT.o
+ .debug_loc     0x00000000000059e8      0x101 ../Obj/mega328_1.9V/ShowData.o
+ .debug_loc     0x0000000000005ae9      0x664 ../Obj/mega328_1.9V/sampling_cap.o
+ .debug_loc     0x000000000000614d      0x9d7 ../Obj/mega328_1.9V/sampling_lc.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x3d0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0xd8 ../Obj/mega328_1.9V/lcd-routines.o
+ .debug_ranges  0x00000000000000d8       0x28 ../Obj/mega328_1.9V/DisplayValue.o
+ .debug_ranges  0x0000000000000100       0x18 ../Obj/mega328_1.9V/wait_for_key_ms.o
+ .debug_ranges  0x0000000000000118       0x80 ../Obj/mega328_1.9V/main.o
+ .debug_ranges  0x0000000000000198       0x10 ../Obj/mega328_1.9V/Battery_check.o
+ .debug_ranges  0x00000000000001a8       0x18 ../Obj/mega328_1.9V/CheckPins.o
+ .debug_ranges  0x00000000000001c0       0x10 ../Obj/mega328_1.9V/GetResistance.o
+ .debug_ranges  0x00000000000001d0       0x10 ../Obj/mega328_1.9V/ChargePin10ms.o
+ .debug_ranges  0x00000000000001e0       0x10 ../Obj/mega328_1.9V/EntladePins.o
+ .debug_ranges  0x00000000000001f0       0x28 ../Obj/mega328_1.9V/ReadCapacity.o
+ .debug_ranges  0x0000000000000218       0x10 ../Obj/mega328_1.9V/Calibrate_UR.o
+ .debug_ranges  0x0000000000000228       0x38 ../Obj/mega328_1.9V/show_Resis_Cap.o
+ .debug_ranges  0x0000000000000260       0x10 ../Obj/mega328_1.9V/ReadInductance.o
+ .debug_ranges  0x0000000000000270       0x10 ../Obj/mega328_1.9V/GetVloss.o
+ .debug_ranges  0x0000000000000280       0x60 ../Obj/mega328_1.9V/function_menu.o
+ .debug_ranges  0x00000000000002e0       0x10 ../Obj/mega328_1.9V/message_key_released.o
+ .debug_ranges  0x00000000000002f0       0x30 ../Obj/mega328_1.9V/GetFrequency.o
+ .debug_ranges  0x0000000000000320       0x10 ../Obj/mega328_1.9V/ReadBigCap.o
+ .debug_ranges  0x0000000000000330       0x28 ../Obj/mega328_1.9V/CheckUJT.o
+ .debug_ranges  0x0000000000000358       0x10 ../Obj/mega328_1.9V/ShowData.o
+ .debug_ranges  0x0000000000000368       0x20 ../Obj/mega328_1.9V/sampling_cap.o
+ .debug_ranges  0x0000000000000388       0x48 ../Obj/mega328_1.9V/sampling_lc.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(../Obj/mega328_1.9V/mega328_1.9V.elf elf32-avr)
+LOAD linker stubs
